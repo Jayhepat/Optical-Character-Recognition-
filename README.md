@@ -29,8 +29,9 @@ Suggested Datasets (for extension or training):
 - IAM Handwriting Database – for handwritten OCR testing.
 - Google’s Open Images Dataset – contains labeled text-in-image examples.7\]]
 
-![Robotic Car Prototype](![Data Flow](https://github.com/user-attachments/assets/3e39a93c-aef6-41fd-a70d-904464383572)
-)
+**Data Flow**
+(![Data Flow](https://github.com/user-attachments/assets/3e39a93c-aef6-41fd-a70d-904464383572)
+
 
 ## Installation and Setup
 
